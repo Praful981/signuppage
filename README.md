@@ -1,2 +1,2 @@
 # signuppage
-Its a signup page for a supermarket online users
+I have made a signup page and login page  for a supermarket online users
